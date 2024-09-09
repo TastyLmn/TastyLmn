@@ -1,0 +1,11 @@
+html {
+  height: 100vh;
+}
+.container,
+.container-form {
+  border: 2px solid black;
+}
+.profile {
+  width: 25rem;
+  border-radius: 50%;
+}
